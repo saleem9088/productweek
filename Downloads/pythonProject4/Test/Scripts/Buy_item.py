@@ -4,23 +4,24 @@ from Page_Object.Pages.HomePage import Home
 
 
 class Test_Shopping:
-    home1 = Home()
+
+    homeNew = Home()
     # checking Temparature
-    home1.get_url_operation("https://weathershopper.pythonanywhere.com/", home1.Current_Temperature)
-    home1.click_operation(home1.Get_Info)
+    homeNew.get_url_operation("https://weathershopper.pythonanywhere.com/", homeNew.Current_Temperature)
+    homeNew.click_operation(homeNew.Get_Info)
     # Getting Info on what to be purchased
-    info = home1.get_attribute_value(home1.Get_info_text, 'data-content')
-    temp = home1.get_text_from_locator(home1.Current_Temperature)
+    info = homeNew.get_attribute_value(homeNew.Get_info_text, 'data-content')
+    temp = homeNew.get_text_from_locator(homeNew.Current_Temperature)
     res = [int(i) for i in info.split() if i.isdigit()]
     res1 = [int(i) for i in temp.split() if i.isdigit()]
     # Deciding to buy suncreen or moisturizer based on temparature
 
     if res1[0] < res[0]:
-        home1.click_operation(home1.Get_Moisturizers)
+        homeNew.click_operation(homeNew.Get_Moisturizers)
 
     else:
-        home1.click_operation(home1.Get_Sunscreen)
-    p = home1.items_to_dictonary(home1.Fetch_Product)
+        homeNew.click_operation(homeNew.Get_Sunscreen)
+    p = homeNew.items_to_dictonary(homeNew.Fetch_Product)
     print(p)
     # Fetching products containing SPF 30 or Aloe
     dictnary = {}
@@ -39,50 +40,47 @@ class Test_Shopping:
             temp = k
             break
     print(temp)
-    home1.set_tem(temp)
-    home1.click_operation(home1.Add_product)
+    homeNew.set_tem(temp)
+    homeNew.click_operation(homeNew.Add_product)
 
     #
     try:
         time.sleep(7)
-        dictnary1 = {}
+        dictnaryNew = {}
         for m in p:
-            strr1 = m
-            if 'SPF-50' in strr1 or 'Almond' in strr1 or 'spf-50' in strr1:
-                dictnary1[i] = str(p[i])[1:-1]
+            strrNew = m
+            if 'SPF-50' in strrNew or 'Almond' in strrNew or 'spf-50' in strrNew:
+                dictnaryNew[i] = str(p[i])[1:-1]
 
-        print(dictnary1)
+        print(dictnaryNew)
 
-        temp1 = min(dictnary1.values())
+        temp1 = min(dictnaryNew.values())
         print(temp1)
-        for l in dictnary1:
+        for l in dictnaryNew:
             if temp1 == dictnary[l]:
                 temp1 = l
                 break
         print(temp1)
-        home1.set_tem(temp1)
-        home1.click_operation(home1.Add_product)
+        homeNew.set_tem(temp1)
+        homeNew.click_operation(homeNew.Add_product)
 
     except Exception as e:
         print(e)
 
     #Going to cart and completing payment
-    home1.click_operation(home1.Go_To_Cart)
-    home1.click_operation(home1.Pay_with_Card)
-    home1.switch_between_frame("stripe_checkout_app")
-    home1.send_keys_operation(home1.Email,"dumm@g.com")
-    home1.send_keys_operation(home1.Card_Number,"3622")
-    home1.send_keys_operation(home1.CV, "5565")
+    homeNew.click_operation(homeNew.Go_To_Cart)
+    homeNew.click_operation(homeNew.Pay_with_Card)
+    homeNew.switch_between_frame("stripe_checkout_app")
+    homeNew.send_keys_operation(homeNew.Email,"anb@gmail.com")
+    homeNew.send_keys_operation(homeNew.Card_Number,"4000056655665556")
+    homeNew.send_keys_operation(homeNew.CV, "5565")
+    homeNew.send_keys_operation(homeNew.MonthYear, "11")
     time.sleep(5)
-    home1.send_keys_operation(home1.Card_Number, "77206")
-    home1.send_keys_operation(home1.MonthYear, "11")
-    time.sleep(5)
-    home1.send_keys_operation(home1.MonthYear, "2032")
-    home1.send_keys_operation(home1.Card_Number, "22716")
-    home1.send_keys_operation(home1.ZIP,"666767")
-    home1.click_operation(home1.Pay_IN_INR)
+    homeNew.send_keys_operation(homeNew.MonthYear, "2022")
+    homeNew.send_keys_operation(homeNew.ZIP,"9667")
+    homeNew.click_operation(homeNew.Pay_IN_INR)
     time.sleep(6)
-    msg=home1.get_text_from_locator(home1.Success_Msg)
+    msg=homeNew.get_text_from_locator(homeNew.Success_Msg)
     assert msg == "Your payment was successful. You should receive a follow-up call from our sales team."
 
 
