@@ -1,0 +1,543 @@
+2022-02-17 19:41:26,806 :INFO : test_filter_by_category :Complete quiz method started
+2022-02-17 19:41:26,826 :INFO : login1 :Login method is started
+2022-02-17 19:41:26,867 :INFO : login1 :{'name': 'kakashi', 'email': 'kakashi@gmail.com', 'firstname': 'kakashi', 'lastname': 'hatake', 'phone': 1234567890, 'batch': 'Batch', 'newPassword': 'password', 'confirmPassword': 'password'}
+2022-02-17 19:44:22,075 :INFO : test_filter_by_category :Complete quiz method started
+2022-02-17 19:44:29,347 :INFO : login1 :Login method is started
+2022-02-17 19:44:29,378 :INFO : login1 :{'name': 'kakashi', 'email': 'kakashi@gmail.com', 'firstname': 'kakashi', 'lastname': 'hatake', 'phone': 1234567890, 'batch': 'Batch', 'newPassword': 'password', 'confirmPassword': 'password'}
+2022-02-17 19:44:34,507 :INFO : login1 :User name is filled
+2022-02-17 19:44:39,598 :INFO : login1 :Password is entered
+2022-02-17 19:44:44,672 :INFO : login1 :Login button is clicked
+2022-02-17 19:44:44,673 :INFO : login1 :User is loged in successfully
+2022-02-17 19:44:44,724 :INFO : login1 :User is logged into his account successfully
+2022-02-17 19:44:49,821 :INFO : click_completed_quiz_button :Completed quiz button is clicked
+2022-02-17 19:44:49,890 :INFO : filter_by_category :{'name': 'Java'}
+2022-02-17 19:44:49,982 :INFO : filter_by_category : Filter is applied correctly by category
+2022-02-17 19:46:56,390 :INFO : test_filter_by_category :Complete quiz method started
+2022-02-17 19:47:03,697 :INFO : login1 :Login method is started
+2022-02-17 19:47:03,711 :INFO : login1 :{'name': 'kakashi', 'email': 'kakashi@gmail.com', 'firstname': 'kakashi', 'lastname': 'hatake', 'phone': 1234567890, 'batch': 'Batch', 'newPassword': 'password', 'confirmPassword': 'password'}
+2022-02-17 19:47:08,830 :INFO : login1 :User name is filled
+2022-02-17 19:47:13,910 :INFO : login1 :Password is entered
+2022-02-17 19:47:18,974 :INFO : login1 :Login button is clicked
+2022-02-17 19:47:18,975 :INFO : login1 :User is loged in successfully
+2022-02-17 19:47:19,007 :INFO : login1 :User is logged into his account successfully
+2022-02-17 19:47:24,081 :INFO : click_pending_quiz_button :Pending quiz button is clicked
+2022-02-17 19:47:24,136 :INFO : filter_by_category :{'name': 'QA'}
+2022-02-17 19:47:24,186 :INFO : filter_by_category : Filter is applied correctly by category
+2022-02-17 20:05:04,560 :INFO : test_filter_by_category :Complete quiz method started
+2022-02-17 20:05:10,967 :INFO : login1 :Login method is started
+2022-02-17 20:05:10,983 :INFO : login1 :{}
+2022-02-17 20:07:51,133 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:07:51,136 :INFO : login1 :Login method is started
+2022-02-17 20:07:51,151 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:07:56,347 :INFO : login1 :User name is filled
+2022-02-17 20:08:01,448 :INFO : login1 :Password is entered
+2022-02-17 20:08:06,544 :INFO : login1 :Login button is clicked
+2022-02-17 20:08:06,545 :INFO : login1 :User is loged in successfully
+2022-02-17 20:08:06,590 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:08:06,664 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:08:06,664 :INFO : Login_Page :unsupported operand type(s) for +: 'bool' and 'str'
+2022-02-17 20:09:03,486 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:09:03,488 :INFO : login1 :Login method is started
+2022-02-17 20:09:03,501 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:09:08,680 :INFO : login1 :User name is filled
+2022-02-17 20:09:13,782 :INFO : login1 :Password is entered
+2022-02-17 20:09:18,854 :INFO : login1 :Login button is clicked
+2022-02-17 20:09:18,855 :INFO : login1 :User is loged in successfully
+2022-02-17 20:09:18,898 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:09:18,975 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:14:14,722 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:14:14,725 :INFO : login1 :Login method is started
+2022-02-17 20:14:14,738 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:14:19,862 :INFO : login1 :User name is filled
+2022-02-17 20:14:24,955 :INFO : login1 :Password is entered
+2022-02-17 20:14:30,025 :INFO : login1 :Login button is clicked
+2022-02-17 20:14:30,025 :INFO : login1 :User is loged in successfully
+2022-02-17 20:14:30,057 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:14:30,136 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:14:30,136 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:14:30,137 :INFO : Login_Page :assert True == False
+  +True
+  -False
+2022-02-17 20:16:05,837 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:16:05,842 :INFO : login1 :Login method is started
+2022-02-17 20:16:05,859 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:16:11,013 :INFO : login1 :User name is filled
+2022-02-17 20:16:16,114 :INFO : login1 :Password is entered
+2022-02-17 20:16:21,188 :INFO : login1 :Login button is clicked
+2022-02-17 20:16:21,188 :INFO : login1 :User is loged in successfully
+2022-02-17 20:16:21,230 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:16:21,305 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:16:21,305 :INFO : Login_Page :True
+2022-02-17 20:16:21,305 :INFO : Login_Page :<class 'bool'>
+2022-02-17 20:16:21,305 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:16:21,305 :INFO : Login_Page :Test_CompleteQuiz_User() takes no arguments
+2022-02-17 20:17:19,685 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:17:19,689 :INFO : login1 :Login method is started
+2022-02-17 20:17:19,702 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:17:24,815 :INFO : login1 :User name is filled
+2022-02-17 20:17:29,903 :INFO : login1 :Password is entered
+2022-02-17 20:17:34,969 :INFO : login1 :Login button is clicked
+2022-02-17 20:17:34,970 :INFO : login1 :User is loged in successfully
+2022-02-17 20:17:35,004 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:17:35,081 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:17:35,081 :INFO : Login_Page :True
+2022-02-17 20:17:35,081 :INFO : Login_Page :<class 'bool'>
+2022-02-17 20:17:35,085 :INFO : test_CompletedQuizCategory :Complete quiz method started
+2022-02-17 20:17:35,085 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:17:35,085 :INFO : Login_Page :'Test_CompleteQuiz_User' object has no attribute 'driver'
+2022-02-17 20:21:32,030 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:21:32,032 :INFO : login1 :Login method is started
+2022-02-17 20:21:32,046 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:21:37,201 :INFO : login1 :User name is filled
+2022-02-17 20:21:42,302 :INFO : login1 :Password is entered
+2022-02-17 20:21:47,371 :INFO : login1 :Login button is clicked
+2022-02-17 20:21:47,372 :INFO : login1 :User is loged in successfully
+2022-02-17 20:21:47,405 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:21:47,479 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:21:47,479 :INFO : Login_Page :True
+2022-02-17 20:21:47,479 :INFO : Login_Page :<class 'bool'>
+2022-02-17 20:21:48,887 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:21:48,887 :INFO : Login_Page :'Test_Add_New_Quiz' object has no attribute 'dashboard'
+2022-02-17 20:23:50,192 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:23:50,194 :INFO : login1 :Login method is started
+2022-02-17 20:23:50,208 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:23:55,328 :INFO : login1 :User name is filled
+2022-02-17 20:24:00,428 :INFO : login1 :Password is entered
+2022-02-17 20:24:05,500 :INFO : login1 :Login button is clicked
+2022-02-17 20:24:05,500 :INFO : login1 :User is loged in successfully
+2022-02-17 20:24:05,534 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:24:05,612 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:24:05,612 :INFO : Login_Page :False
+2022-02-17 20:24:05,612 :INFO : Login_Page :<class 'bool'>
+2022-02-17 20:24:05,612 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:24:05,613 :INFO : Login_Page :assert True == False
+  +True
+  -False
+2022-02-17 20:24:59,026 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:24:59,028 :INFO : login1 :Login method is started
+2022-02-17 20:24:59,044 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:25:04,173 :INFO : login1 :User name is filled
+2022-02-17 20:25:09,265 :INFO : login1 :Password is entered
+2022-02-17 20:25:14,336 :INFO : login1 :Login button is clicked
+2022-02-17 20:25:14,336 :INFO : login1 :User is loged in successfully
+2022-02-17 20:25:14,369 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:25:19,457 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:25:19,458 :INFO : Login_Page :True
+2022-02-17 20:25:19,458 :INFO : Login_Page :<class 'bool'>
+2022-02-17 20:25:42,399 :INFO : click_pending_quiz_button :Pending quiz button is clicked
+2022-02-17 20:25:42,440 :INFO : click_attempt_quiz_button :From pending quiz page
+2022-02-17 20:25:47,539 :INFO : click_attempt_quiz_button :user has entered the quiz
+2022-02-17 20:25:47,542 :INFO : take_quiz :From take quiz method in Quiz page
+2022-02-17 20:25:52,621 :INFO : take_quiz :Start button is clicked
+2022-02-17 20:26:33,309 :INFO : take_quiz :Successfully completed the quiz
+2022-02-17 20:26:38,395 :INFO : click_completed_quiz_button :Completed quiz button is clicked
+2022-02-17 20:26:38,421 :INFO : quiz_title_verification :str == HashPPA
+2022-02-17 20:26:38,435 :INFO : quiz_title_verification :The quiz completed is present in completed quiz section
+2022-02-17 20:28:12,150 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:28:12,153 :INFO : login1 :Login method is started
+2022-02-17 20:28:12,167 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:28:17,358 :INFO : login1 :User name is filled
+2022-02-17 20:28:22,453 :INFO : login1 :Password is entered
+2022-02-17 20:28:27,528 :INFO : login1 :Login button is clicked
+2022-02-17 20:28:27,528 :INFO : login1 :User is loged in successfully
+2022-02-17 20:28:27,560 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:28:32,648 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:28:32,648 :INFO : Login_Page :True
+2022-02-17 20:28:32,648 :INFO : Login_Page :<class 'bool'>
+2022-02-17 20:28:46,003 :INFO : click_pending_quiz_button :Pending quiz button is clicked
+2022-02-17 20:28:51,250 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:28:51,250 :INFO : Login_Page :'NoneType' object has no attribute 'is_displayed'
+2022-02-17 20:29:03,937 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:29:03,938 :INFO : login1 :Login method is started
+2022-02-17 20:29:03,952 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:29:09,140 :INFO : login1 :User name is filled
+2022-02-17 20:29:14,240 :INFO : login1 :Password is entered
+2022-02-17 20:29:19,347 :INFO : login1 :Login button is clicked
+2022-02-17 20:29:19,347 :INFO : login1 :User is loged in successfully
+2022-02-17 20:29:19,384 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:29:24,475 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:29:24,476 :INFO : Login_Page :True
+2022-02-17 20:29:24,476 :INFO : Login_Page :<class 'bool'>
+2022-02-17 20:29:57,101 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:29:57,101 :INFO : Login_Page :Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103d0be69 chromedriver + 5160553
+1   chromedriver                        0x0000000103c96593 chromedriver + 4679059
+2   chromedriver                        0x000000010384a2c8 chromedriver + 172744
+3   chromedriver                        0x000000010387fb62 chromedriver + 392034
+4   chromedriver                        0x000000010387fd21 chromedriver + 392481
+5   chromedriver                        0x00000001038b2304 chromedriver + 598788
+6   chromedriver                        0x000000010389d3fd chromedriver + 513021
+7   chromedriver                        0x00000001038b00ab chromedriver + 589995
+8   chromedriver                        0x000000010389d623 chromedriver + 513571
+9   chromedriver                        0x0000000103872dce chromedriver + 339406
+10  chromedriver                        0x0000000103874105 chromedriver + 344325
+11  chromedriver                        0x0000000103cc723e chromedriver + 4878910
+12  chromedriver                        0x0000000103cded17 chromedriver + 4975895
+13  chromedriver                        0x0000000103ce4a3f chromedriver + 4999743
+14  chromedriver                        0x0000000103cdf61a chromedriver + 4978202
+15  chromedriver                        0x0000000103cbbbb1 chromedriver + 4832177
+16  chromedriver                        0x0000000103cfbfd8 chromedriver + 5095384
+17  chromedriver                        0x0000000103cfc161 chromedriver + 5095777
+18  chromedriver                        0x0000000103d132a8 chromedriver + 5190312
+19  libsystem_pthread.dylib             0x00007ff8043a84f4 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8043a400f thread_start + 15
+
+2022-02-17 20:31:17,223 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:31:17,227 :INFO : login1 :Login method is started
+2022-02-17 20:31:17,242 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:31:22,445 :INFO : login1 :User name is filled
+2022-02-17 20:31:27,541 :INFO : login1 :Password is entered
+2022-02-17 20:31:32,664 :INFO : login1 :Login button is clicked
+2022-02-17 20:31:32,664 :INFO : login1 :User is loged in successfully
+2022-02-17 20:31:32,692 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:31:37,788 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:31:37,789 :INFO : Login_Page :True
+2022-02-17 20:31:37,789 :INFO : Login_Page :<class 'bool'>
+2022-02-17 20:31:45,441 :INFO : click_pending_quiz_button :Pending quiz button is clicked
+2022-02-17 20:32:16,443 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:32:16,445 :INFO : Login_Page :Message: 
+Stacktrace:
+0   chromedriver                        0x0000000106b6fe69 chromedriver + 5160553
+1   chromedriver                        0x0000000106afa593 chromedriver + 4679059
+2   chromedriver                        0x00000001066ae2c8 chromedriver + 172744
+3   chromedriver                        0x00000001066e3b62 chromedriver + 392034
+4   chromedriver                        0x00000001066e3d21 chromedriver + 392481
+5   chromedriver                        0x0000000106716304 chromedriver + 598788
+6   chromedriver                        0x00000001067013fd chromedriver + 513021
+7   chromedriver                        0x00000001067140ab chromedriver + 589995
+8   chromedriver                        0x0000000106701623 chromedriver + 513571
+9   chromedriver                        0x00000001066d6dce chromedriver + 339406
+10  chromedriver                        0x00000001066d8105 chromedriver + 344325
+11  chromedriver                        0x0000000106b2b23e chromedriver + 4878910
+12  chromedriver                        0x0000000106b42d17 chromedriver + 4975895
+13  chromedriver                        0x0000000106b48a3f chromedriver + 4999743
+14  chromedriver                        0x0000000106b4361a chromedriver + 4978202
+15  chromedriver                        0x0000000106b1fbb1 chromedriver + 4832177
+16  chromedriver                        0x0000000106b5ffd8 chromedriver + 5095384
+17  chromedriver                        0x0000000106b60161 chromedriver + 5095777
+18  chromedriver                        0x0000000106b772a8 chromedriver + 5190312
+19  libsystem_pthread.dylib             0x00007ff8043a84f4 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8043a400f thread_start + 15
+
+2022-02-17 20:33:20,165 :INFO : Login_Page :Navigating to login page of application HQM...
+2022-02-17 20:33:20,166 :INFO : Login_Page :Getting Test Data
+2022-02-17 20:33:20,179 :INFO : Login_Page :{'url': 'https://hqm-frontend-urtjok3rza-wl.a.run.app/login', 'username': 'admin', 'password': '1234@admin', 'logged_in_user': 'Admin Admin', 'Dashboard_links': 'Dashboard All Quiz Category Batch Quiz', 'question': None, 'option1': None, 'option2': None, 'option3': None, 'option4': None, 'answer': None, 'marks': None}
+2022-02-17 20:33:20,179 :INFO : Login_Page :Entering the url
+2022-02-17 20:33:20,843 :INFO : Login_Page :Entering the Username
+2022-02-17 20:33:26,024 :INFO : Login_Page :Entering the Password
+2022-02-17 20:33:31,127 :INFO : Login_Page :Clicking login button
+2022-02-17 20:33:36,230 :INFO : Login_Page :Validating if the user is successfully logged in
+2022-02-17 20:33:36,230 :INFO : Login_Page :user is successfully logged in the account
+2022-02-17 20:33:36,230 :INFO : Login_Page :Login functionality for admin user is successfully validated
+2022-02-17 20:33:36,731 :INFO : Create_Quiz :Navigating to Quiz Creation section...
+2022-02-17 20:34:00,656 :INFO : Create_Quiz :Into Quiz creation section
+2022-02-17 20:34:00,656 :INFO : Create_Quiz :Creating a new quiz
+2022-02-17 20:34:05,671 :INFO : Create_Quiz :Exception occurred
+2022-02-17 20:34:05,671 :ERROR : Create_Quiz :Message: no such window: window was already closed
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+0   chromedriver                        0x0000000108a4be69 chromedriver + 5160553
+1   chromedriver                        0x00000001089d6593 chromedriver + 4679059
+2   chromedriver                        0x000000010858a2c8 chromedriver + 172744
+3   chromedriver                        0x0000000108579a05 chromedriver + 104965
+4   chromedriver                        0x000000010857aeb2 chromedriver + 110258
+5   chromedriver                        0x0000000108573ba2 chromedriver + 80802
+6   chromedriver                        0x000000010858b753 chromedriver + 178003
+7   chromedriver                        0x00000001085ef75c chromedriver + 587612
+8   chromedriver                        0x00000001085dd623 chromedriver + 513571
+9   chromedriver                        0x00000001085b2dce chromedriver + 339406
+10  chromedriver                        0x00000001085b4105 chromedriver + 344325
+11  chromedriver                        0x0000000108a0723e chromedriver + 4878910
+12  chromedriver                        0x0000000108a1ed17 chromedriver + 4975895
+13  chromedriver                        0x0000000108a24a3f chromedriver + 4999743
+14  chromedriver                        0x0000000108a1f61a chromedriver + 4978202
+15  chromedriver                        0x00000001089fbbb1 chromedriver + 4832177
+16  chromedriver                        0x0000000108a3bfd8 chromedriver + 5095384
+17  chromedriver                        0x0000000108a3c161 chromedriver + 5095777
+18  chromedriver                        0x0000000108a532a8 chromedriver + 5190312
+19  libsystem_pthread.dylib             0x00007ff8043a84f4 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8043a400f thread_start + 15
+
+2022-02-17 20:34:05,695 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:34:05,695 :INFO : Login_Page :Message: no such window: window was already closed
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+0   chromedriver                        0x0000000108a4be69 chromedriver + 5160553
+1   chromedriver                        0x00000001089d6593 chromedriver + 4679059
+2   chromedriver                        0x000000010858a2c8 chromedriver + 172744
+3   chromedriver                        0x0000000108579a05 chromedriver + 104965
+4   chromedriver                        0x000000010857aeb2 chromedriver + 110258
+5   chromedriver                        0x0000000108573ba2 chromedriver + 80802
+6   chromedriver                        0x000000010858b753 chromedriver + 178003
+7   chromedriver                        0x00000001085ef75c chromedriver + 587612
+8   chromedriver                        0x00000001085dd623 chromedriver + 513571
+9   chromedriver                        0x00000001085b2dce chromedriver + 339406
+10  chromedriver                        0x00000001085b4105 chromedriver + 344325
+11  chromedriver                        0x0000000108a0723e chromedriver + 4878910
+12  chromedriver                        0x0000000108a1ed17 chromedriver + 4975895
+13  chromedriver                        0x0000000108a24a3f chromedriver + 4999743
+14  chromedriver                        0x0000000108a1f61a chromedriver + 4978202
+15  chromedriver                        0x00000001089fbbb1 chromedriver + 4832177
+16  chromedriver                        0x0000000108a3bfd8 chromedriver + 5095384
+17  chromedriver                        0x0000000108a3c161 chromedriver + 5095777
+18  chromedriver                        0x0000000108a532a8 chromedriver + 5190312
+19  libsystem_pthread.dylib             0x00007ff8043a84f4 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8043a400f thread_start + 15
+
+2022-02-17 20:38:12,424 :INFO : Login_Page :Navigating to login page of application HQM...
+2022-02-17 20:38:12,439 :INFO : Login_Page :Getting Test Data
+2022-02-17 20:38:12,455 :INFO : Login_Page :{'url': 'https://hqm-frontend-urtjok3rza-wl.a.run.app/login', 'username': 'admin', 'password': '1234@admin', 'logged_in_user': 'Admin Admin', 'Dashboard_links': 'Dashboard All Quiz Category Batch Quiz', 'question': None, 'option1': None, 'option2': None, 'option3': None, 'option4': None, 'answer': None, 'marks': None}
+2022-02-17 20:38:12,458 :INFO : Login_Page :Entering the url
+2022-02-17 20:38:19,202 :INFO : Login_Page :Entering the Username
+2022-02-17 20:38:24,375 :INFO : Login_Page :Entering the Password
+2022-02-17 20:38:29,474 :INFO : Login_Page :Clicking login button
+2022-02-17 20:38:34,600 :INFO : Login_Page :Validating if the user is successfully logged in
+2022-02-17 20:38:34,600 :INFO : Login_Page :user is successfully logged in the account
+2022-02-17 20:38:34,600 :INFO : Login_Page :Login functionality for admin user is successfully validated
+2022-02-17 20:38:34,600 :INFO : Create_Quiz :Navigating to Quiz Creation section...
+2022-02-17 20:38:39,675 :INFO : Create_Quiz :Into Quiz creation section
+2022-02-17 20:38:39,675 :INFO : Create_Quiz :Creating a new quiz
+2022-02-17 20:38:49,981 :INFO : Create_Quiz :Clicking on create quiz button...
+2022-02-17 20:38:49,981 :INFO : All_Quiz :Navigating to All Quiz section...
+2022-02-17 20:38:49,987 :ERROR : Login_Page :Could not add questions to quiz...
+2022-02-17 20:38:49,987 :INFO : Login_Page :Message: no such window: window was already closed
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+0   chromedriver                        0x0000000107f4de69 chromedriver + 5160553
+1   chromedriver                        0x0000000107ed8593 chromedriver + 4679059
+2   chromedriver                        0x0000000107a8c2c8 chromedriver + 172744
+3   chromedriver                        0x0000000107a7ba05 chromedriver + 104965
+4   chromedriver                        0x0000000107a7ceb2 chromedriver + 110258
+5   chromedriver                        0x0000000107a75ba2 chromedriver + 80802
+6   chromedriver                        0x0000000107a8d753 chromedriver + 178003
+7   chromedriver                        0x0000000107af175c chromedriver + 587612
+8   chromedriver                        0x0000000107adf623 chromedriver + 513571
+9   chromedriver                        0x0000000107ab4dce chromedriver + 339406
+10  chromedriver                        0x0000000107ab6105 chromedriver + 344325
+11  chromedriver                        0x0000000107f0923e chromedriver + 4878910
+12  chromedriver                        0x0000000107f20d17 chromedriver + 4975895
+13  chromedriver                        0x0000000107f26a3f chromedriver + 4999743
+14  chromedriver                        0x0000000107f2161a chromedriver + 4978202
+15  chromedriver                        0x0000000107efdbb1 chromedriver + 4832177
+16  chromedriver                        0x0000000107f3dfd8 chromedriver + 5095384
+17  chromedriver                        0x0000000107f3e161 chromedriver + 5095777
+18  chromedriver                        0x0000000107f552a8 chromedriver + 5190312
+19  libsystem_pthread.dylib             0x00007ff8043a84f4 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8043a400f thread_start + 15
+
+2022-02-17 20:38:53,206 :INFO : Login_Page :Navigating to login page of application HQM...
+2022-02-17 20:38:53,206 :INFO : Login_Page :Getting Test Data
+2022-02-17 20:38:53,223 :INFO : Login_Page :{'url': 'https://hqm-frontend-urtjok3rza-wl.a.run.app/login', 'username': 'admin', 'password': '1234@admin', 'logged_in_user': 'Admin Admin', 'Dashboard_links': 'Dashboard All Quiz Category Batch Quiz', 'question': None, 'option1': None, 'option2': None, 'option3': None, 'option4': None, 'answer': None, 'marks': None}
+2022-02-17 20:38:53,226 :INFO : Login_Page :Entering the url
+2022-02-17 20:38:57,747 :INFO : Login_Page :Entering the Username
+2022-02-17 20:39:02,896 :INFO : Login_Page :Entering the Password
+2022-02-17 20:39:07,991 :INFO : Login_Page :Clicking login button
+2022-02-17 20:39:13,104 :INFO : Login_Page :Validating if the user is successfully logged in
+2022-02-17 20:39:13,104 :INFO : Login_Page :user is successfully logged in the account
+2022-02-17 20:39:13,104 :INFO : Login_Page :Login functionality for admin user is successfully validated
+2022-02-17 20:39:13,104 :INFO : Create_Quiz :Navigating to Quiz Creation section...
+2022-02-17 20:39:18,179 :INFO : Create_Quiz :Into Quiz creation section
+2022-02-17 20:39:18,180 :INFO : Create_Quiz :Creating a new quiz
+2022-02-17 20:39:28,490 :INFO : Create_Quiz :Clicking on create quiz button...
+2022-02-17 20:39:28,491 :INFO : All_Quiz :Navigating to All Quiz section...
+2022-02-17 20:39:33,588 :INFO : All_Quiz :Into quiz section
+2022-02-17 20:39:38,726 :INFO : All_Quiz :Adding new questions to quiz...
+2022-02-17 20:39:38,755 :INFO : All_Quiz ://*[text()='Hash9HC']/parent::tr//button[text()='Add Question']
+2022-02-17 20:40:30,495 :INFO : All_Quiz :12.9
+2022-02-17 20:40:35,618 :INFO : All_Quiz :Quiz is published successfully
+2022-02-17 20:40:35,618 :INFO : Login_Page :Batch is successfully returned 12.9
+2022-02-17 20:40:35,619 :INFO : Login_Page :Logging out...
+2022-02-17 20:40:40,752 :INFO : Login_Page :Successfully Logged out
+2022-02-17 20:40:41,380 :INFO : Login_Page :Logging in as a user
+2022-02-17 20:40:41,382 :INFO : login1 :Login method is started
+2022-02-17 20:40:41,396 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:40:46,511 :INFO : login1 :User name is filled
+2022-02-17 20:40:51,612 :INFO : login1 :Password is entered
+2022-02-17 20:40:56,689 :INFO : login1 :Login button is clicked
+2022-02-17 20:40:56,690 :INFO : login1 :User is loged in successfully
+2022-02-17 20:40:56,739 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:41:01,828 :INFO : Login_Page :Quiz is successfully assigned to User
+2022-02-17 20:41:01,828 :INFO : Login_Page :True
+2022-02-17 20:41:01,829 :INFO : Login_Page :<class 'bool'>
+2022-02-17 20:41:09,617 :INFO : click_pending_quiz_button :Pending quiz button is clicked
+2022-02-17 20:41:10,892 :INFO : click_attempt_quiz_button :From pending quiz page
+2022-02-17 20:41:15,969 :INFO : click_attempt_quiz_button :user has entered the quiz
+2022-02-17 20:41:15,975 :INFO : take_quiz :From take quiz method in Quiz page
+2022-02-17 20:41:21,066 :INFO : take_quiz :Start button is clicked
+2022-02-17 20:42:01,783 :INFO : take_quiz :Successfully completed the quiz
+2022-02-17 20:42:06,883 :INFO : click_completed_quiz_button :Completed quiz button is clicked
+2022-02-17 20:42:06,900 :INFO : quiz_title_verification :str == Hash9HC
+2022-02-17 20:42:06,923 :INFO : quiz_title_verification :The quiz completed is present in completed quiz section
+2022-02-17 20:43:57,659 :INFO : test_filter_by_category :Complete quiz method started
+2022-02-17 20:44:04,992 :INFO : login1 :Login method is started
+2022-02-17 20:44:05,006 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:44:49,712 :INFO : test_filter_by_category :Complete quiz method started
+2022-02-17 20:44:55,573 :INFO : login1 :Login method is started
+2022-02-17 20:44:55,588 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:45:00,784 :INFO : login1 :User name is filled
+2022-02-17 20:45:05,883 :INFO : login1 :Password is entered
+2022-02-17 20:45:10,975 :INFO : login1 :Login button is clicked
+2022-02-17 20:45:10,975 :INFO : login1 :User is loged in successfully
+2022-02-17 20:45:11,009 :INFO : login1 :User is logged into his account successfully
+2022-02-17 20:45:16,610 :INFO : click_pending_quiz_button :Pending quiz button is clicked
+2022-02-17 20:45:16,662 :INFO : filter_by_category :{'name': 'QA'}
+2022-02-17 20:45:46,705 :INFO : filter_by_category :No quiz completed with selected category
+2022-02-17 20:45:46,706 :INFO : filter_by_category : Filter is applied correctly by category
+2022-02-17 20:47:25,816 :INFO : Login_Page :Navigating to All Quiz section...
+2022-02-17 20:47:25,836 :INFO : Login_Page :Getting Test Data
+2022-02-17 20:47:25,853 :INFO : Login_Page :{'url': 'https://hqm-frontend-urtjok3rza-wl.a.run.app/login', 'username': 'admin', 'password': '1234@admin', 'logged_in_user': 'Admin Admin', 'Dashboard_links': 'Dashboard All Quiz Category Batch Quiz', 'question': None, 'option1': None, 'option2': None, 'option3': None, 'option4': None, 'answer': None, 'marks': None}
+2022-02-17 20:47:25,855 :INFO : Login_Page :Entering the url
+2022-02-17 20:47:29,983 :INFO : Login_Page :Entering the Username
+2022-02-17 20:47:35,164 :INFO : Login_Page :Entering the Password
+2022-02-17 20:47:40,270 :INFO : Login_Page :Clicking login button
+2022-02-17 20:47:45,393 :INFO : Login_Page :Validating if the user is successfully logged in
+2022-02-17 20:47:45,394 :INFO : Login_Page :user is successfully logged in the account
+2022-02-17 20:47:45,394 :INFO : All_Quiz :Navigating to All Quiz section...
+2022-02-17 20:47:50,465 :INFO : All_Quiz :Into quiz section
+2022-02-17 20:47:50,465 :INFO : All_Quiz :Getting total number of quiz present in dashboard
+2022-02-17 20:47:50,487 :INFO : All_Quiz :<class 'list'>
+2022-02-17 20:47:50,487 :INFO : Login_Page :96
+2022-02-17 20:47:50,487 :INFO : Login_Page :Navigating to All Dashboard...
+2022-02-17 20:47:55,594 :INFO : Login_Page :Into Dashboard section
+2022-02-17 20:47:55,595 :INFO : Login_Page :Getting total number of quiz present in dashboard
+2022-02-17 20:47:55,628 :INFO : Login_Page :96
+2022-02-17 20:47:55,628 :INFO : Login_Page :<class 'str'>
+2022-02-17 20:47:55,628 :INFO : Login_Page :96
+2022-02-17 20:47:55,628 :ERROR : Login_Page :Quiz Count is successfully validated in All Quiz section
+2022-02-17 20:49:53,319 :INFO : Login_Page :Navigating to login page of application HQM...
+2022-02-17 20:49:53,338 :INFO : Login_Page :Getting Test Data
+2022-02-17 20:49:53,355 :INFO : Login_Page :{'url': 'https://hqm-frontend-urtjok3rza-wl.a.run.app/login', 'username': 'admin', 'password': '1234@admin', 'logged_in_user': 'Admin Admin', 'Dashboard_links': 'Dashboard All Quiz Category Batch Quiz', 'question': None, 'option1': None, 'option2': None, 'option3': None, 'option4': None, 'answer': None, 'marks': None}
+2022-02-17 20:49:53,357 :INFO : Login_Page :Entering the url
+2022-02-17 20:49:57,512 :INFO : Login_Page :Entering the Username
+2022-02-17 20:50:02,702 :INFO : Login_Page :Entering the Password
+2022-02-17 20:50:07,797 :INFO : Login_Page :Clicking login button
+2022-02-17 20:50:12,952 :INFO : Login_Page :Validating if the user is successfully logged in
+2022-02-17 20:50:12,952 :INFO : Login_Page :user is successfully logged in the account
+2022-02-17 20:50:12,952 :INFO : Create_Batch :Navigating to Quiz Creation section...
+2022-02-17 20:50:18,037 :INFO : Create_Batch :Into Quiz creation section
+2022-02-17 20:50:18,037 :INFO : Create_Batch :Creating a new batch...
+2022-02-17 20:50:28,279 :INFO : All_Quiz :Navigating to All Quiz section...
+2022-02-17 20:50:33,371 :INFO : All_Quiz :Into quiz section
+2022-02-17 20:50:33,371 :INFO : All_Quiz :Validating new batch creation...
+2022-02-17 20:50:34,139 :INFO : All_Quiz :All available options are... Add Batch 11.1 11.2 1232t14363457585697807908908 Hashed In-12.1 Batch_2022 B1 @Batch -1.0 22.1 2.6  13 ABC ABC@123$abc 13.1 13.1.1 @@@ @@@1 Text box: There should be a text and character limit in the text box field. 1234567890.0 12.4 12,1 12..4 12.04 12.0 7PP UEW DLN 606 LM1 Hi Hashedinuniversity Hashedinuniversity111 Hashedinuniversity111112345 Batch-1 Batch-2 Batch-3 Batch-4 Batch-5 Batch-6 Batch-7 Batch-8 12.6 12.06 2PM
+2022-02-17 20:50:34,139 :INFO : All_Quiz :Added Batch is successfully reflected under All quiz section
+2022-02-17 20:52:28,521 :INFO : Login_Page :Navigating to Login section...
+2022-02-17 20:52:28,521 :INFO : Login_Page :Getting Test Data
+2022-02-17 20:52:28,540 :INFO : Login_Page :{'url': 'https://hqm-frontend-urtjok3rza-wl.a.run.app/login', 'username': 'admin', 'password': '1234@admin', 'logged_in_user': 'Admin Admin', 'Dashboard_links': 'Dashboard All Quiz Category Batch Quiz', 'question': None, 'option1': None, 'option2': None, 'option3': None, 'option4': None, 'answer': None, 'marks': None}
+2022-02-17 20:52:28,540 :INFO : Login_Page :Entering the url
+2022-02-17 20:52:33,924 :INFO : Login_Page :Entering the Username
+2022-02-17 20:52:39,044 :INFO : Login_Page :Entering the Password
+2022-02-17 20:52:44,130 :INFO : Login_Page :Clicking login button
+2022-02-17 20:52:49,245 :INFO : Login_Page :Validating if the user is successfully logged in
+2022-02-17 20:52:49,245 :INFO : Login_Page :user is successfully logged in the account
+2022-02-17 20:52:49,245 :INFO : Quiz_Category :Navigating to Category section...
+2022-02-17 20:52:54,333 :INFO : Quiz_Category :Into Category section
+2022-02-17 20:52:54,334 :INFO : Quiz_Category :creating a new category...
+2022-02-17 20:52:54,334 :INFO : Quiz_Category :category name is 8Z9
+2022-02-17 20:53:04,587 :INFO : Create_Quiz :Navigating to Quiz Creation section...
+2022-02-17 20:53:09,690 :INFO : Create_Quiz :Into Quiz creation section
+2022-02-17 20:53:09,690 :INFO : Create_Quiz :Validating if category is present...
+2022-02-17 20:53:10,838 :INFO : Create_Quiz :All available options are... Filter by Category Java Angular Python DotNet Data Analytics QA java Angular Python DotNet Data Analytics QA Manual Testing java Angular Python DotNet Data Analytics QA Manual Testing java Angular Python DotNet Data Analytics QA Manual Testing java Angular Python DotNet Data Analytics QA Manual Testing Test Analyst Test Analyst Java 123  Java Java Java Java Python selenium Python selenium Python selenium Python selenium 123@#@$@ QA QA  SAP test121 test2 category1 QA category1 category1 category1 category1 category1 category1 Automation Testing W7I C0P D26 YRK 8NW MTE Y2Q CHY MYX 8QB NRU xyz Ja Java QA HUEdge HUEdge HUEdge HUEdge@123 HUEdge@123 HUEdge@123 HUEdge@123 HUEdge@123 HUEdge@123 HUEdge@123 HUEdge@123 HUEdge@123 HUEdge@123 HUEdge@123 1234Test HUEdge@123 1234Test Success Success1 Success2 1234Test 8Z9
+2022-02-17 20:53:10,839 :INFO : Create_Quiz :Added category is successfully reflected under Add a new quiz section
+2022-02-17 20:55:12,519 :INFO : Login_Page :Navigating to login page of application HQM...
+2022-02-17 20:55:12,537 :INFO : Login_Page :Getting Test Data
+2022-02-17 20:55:12,555 :INFO : Login_Page :{'url': 'https://hqm-frontend-urtjok3rza-wl.a.run.app/login', 'username': 'admin', 'password': '1234@admin', 'logged_in_user': 'Admin Admin', 'Dashboard_links': 'Dashboard All Quiz Category Batch Quiz', 'question': None, 'option1': None, 'option2': None, 'option3': None, 'option4': None, 'answer': None, 'marks': None}
+2022-02-17 20:55:12,557 :INFO : Login_Page :Entering the url
+2022-02-17 20:55:18,050 :INFO : Login_Page :Entering the Username
+2022-02-17 20:55:23,232 :INFO : Login_Page :Entering the Password
+2022-02-17 20:55:28,340 :INFO : Login_Page :Clicking login button
+2022-02-17 20:55:33,462 :INFO : Login_Page :Validating if the user is successfully logged in
+2022-02-17 20:55:33,463 :INFO : Login_Page :user is successfully logged in the account
+2022-02-17 20:55:33,463 :INFO : Login_Page :Login functionality for admin user is successfully validated
+2022-02-17 20:55:33,463 :INFO : Login_Page :Logging out...
+2022-02-17 20:55:38,535 :INFO : Login_Page :Successfully Logged out
+2022-02-17 20:56:30,956 :INFO : Login_Page :Navigating to login page of application HQM...
+2022-02-17 20:56:30,956 :INFO : Login_Page :Getting Test Data
+2022-02-17 20:56:30,977 :INFO : Login_Page :{'url': 'https://hqm-frontend-urtjok3rza-wl.a.run.app/login', 'username': 'admin', 'password': '1234@admin', 'logged_in_user': 'Admin Admin', 'Dashboard_links': 'Dashboard All Quiz Category Batch Quiz', 'question': None, 'option1': None, 'option2': None, 'option3': None, 'option4': None, 'answer': None, 'marks': None}
+2022-02-17 20:56:30,977 :INFO : Login_Page :Entering the url
+2022-02-17 20:56:35,588 :INFO : Login_Page :Entering the Username
+2022-02-17 20:56:40,772 :INFO : Login_Page :Entering the Password
+2022-02-17 20:56:45,889 :INFO : Login_Page :Clicking login button
+2022-02-17 20:56:51,022 :INFO : Login_Page :Validating if the user is successfully logged in
+2022-02-17 20:56:51,023 :INFO : Login_Page :user is successfully logged in the account
+2022-02-17 20:56:51,023 :INFO : Login_Page :Returning the list of all row elements of quiz
+2022-02-17 20:56:51,034 :INFO : Login_Page :<class 'list'>
+2022-02-17 20:56:51,034 :INFO : Login_Page :96
+2022-02-17 20:56:51,034 :INFO : Login_Page :Getting total number of quiz present in dashboard
+2022-02-17 20:56:51,061 :INFO : Login_Page :96
+2022-02-17 20:56:51,061 :INFO : Login_Page :<class 'str'>
+2022-02-17 20:56:51,061 :INFO : Login_Page :96
+2022-02-17 20:56:51,061 :INFO : Login_Page :Getting all links of dashboard
+2022-02-17 20:56:51,178 :INFO : Login_Page :All links in dashboard are Dashboard All Quiz Category Batch Quiz
+2022-02-17 20:56:51,194 :ERROR : Login_Page :Exception occurred
+2022-02-17 20:56:51,194 :INFO : Login_Page :All links on dashboard are successfully validated
+2022-02-17 20:59:46,429 :INFO : test_CompletedQuizCategory :Complete quiz method started
+2022-02-17 20:59:53,281 :INFO : login1 :Login method is started
+2022-02-17 20:59:53,295 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 20:59:58,499 :INFO : login1 :User name is filled
+2022-02-17 21:00:03,596 :INFO : login1 :Password is entered
+2022-02-17 21:00:08,694 :INFO : login1 :Login button is clicked
+2022-02-17 21:00:08,694 :INFO : login1 :User is loged in successfully
+2022-02-17 21:00:08,729 :INFO : login1 :User is logged into his account successfully
+2022-02-17 21:00:08,730 :INFO : test_CompletedQuizCategory :Login is done
+2022-02-17 21:00:14,335 :INFO : click_pending_quiz_button :Pending quiz button is clicked
+2022-02-17 21:00:14,374 :INFO : click_attempt_quiz_button :From pending quiz page
+2022-02-17 21:00:19,461 :INFO : click_attempt_quiz_button :user has entered the quiz
+2022-02-17 21:00:19,467 :INFO : take_quiz :From take quiz method in Quiz page
+2022-02-17 21:00:24,553 :INFO : take_quiz :Start button is clicked
+2022-02-17 21:01:05,302 :INFO : take_quiz :Successfully completed the quiz
+2022-02-17 21:01:10,409 :INFO : click_completed_quiz_button :Completed quiz button is clicked
+2022-02-17 21:01:10,428 :INFO : quiz_title_verification :str == HashMLG
+2022-02-17 21:01:10,464 :INFO : quiz_title_verification :The quiz completed is present in completed quiz section
+2022-02-17 21:02:14,934 :INFO : test_filter_by_category :Complete quiz method started
+2022-02-17 21:02:22,736 :INFO : login1 :Login method is started
+2022-02-17 21:02:22,751 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 21:02:27,894 :INFO : login1 :User name is filled
+2022-02-17 21:02:32,982 :INFO : login1 :Password is entered
+2022-02-17 21:02:38,053 :INFO : login1 :Login button is clicked
+2022-02-17 21:02:38,054 :INFO : login1 :User is loged in successfully
+2022-02-17 21:02:38,087 :INFO : login1 :User is logged into his account successfully
+2022-02-17 21:02:43,165 :INFO : click_completed_quiz_button :Completed quiz button is clicked
+2022-02-17 21:02:43,211 :INFO : filter_by_category :{'name': 'Java'}
+2022-02-17 21:03:13,263 :INFO : filter_by_category :No quiz completed with selected category
+2022-02-17 21:03:13,264 :INFO : filter_by_category : Filter is applied correctly by category
+2022-02-17 21:06:00,860 :INFO : test_filter_by_category :Complete quiz method started
+2022-02-17 21:06:07,473 :INFO : login1 :Login method is started
+2022-02-17 21:06:07,487 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 21:06:12,683 :INFO : login1 :User name is filled
+2022-02-17 21:06:17,791 :INFO : login1 :Password is entered
+2022-02-17 21:06:22,887 :INFO : login1 :Login button is clicked
+2022-02-17 21:06:22,888 :INFO : login1 :User is loged in successfully
+2022-02-17 21:06:22,930 :INFO : login1 :User is logged into his account successfully
+2022-02-17 21:06:28,008 :INFO : click_completed_quiz_button :Completed quiz button is clicked
+2022-02-17 21:06:28,056 :INFO : filter_by_category :{'name': 'Python'}
+2022-02-17 21:06:28,127 :INFO : filter_by_category : Filter is applied correctly by category
+2022-02-17 21:08:19,264 :INFO : test_filter_by_category :Complete quiz method started
+2022-02-17 21:08:24,949 :INFO : login1 :Login method is started
+2022-02-17 21:08:24,964 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 21:08:30,145 :INFO : login1 :User name is filled
+2022-02-17 21:08:35,249 :INFO : login1 :Password is entered
+2022-02-17 21:08:40,322 :INFO : login1 :Login button is clicked
+2022-02-17 21:08:40,322 :INFO : login1 :User is loged in successfully
+2022-02-17 21:08:40,365 :INFO : login1 :User is logged into his account successfully
+2022-02-17 21:08:45,972 :INFO : click_pending_quiz_button :Pending quiz button is clicked
+2022-02-17 21:08:46,032 :INFO : filter_by_category :{'name': 'Java'}
+2022-02-17 21:08:46,100 :INFO : filter_by_category : Filter is applied correctly by category
+2022-02-17 21:10:12,807 :INFO : login1 :Login method is started
+2022-02-17 21:10:12,821 :INFO : login1 :{'name': 'firdose', 'email': 'aafreenaafreen2395@gmail.com', 'firstname': None, 'lastname': None, 'phone': None, 'batch': 'Batch', 'newPassword': 'admin123', 'confirmPassword': None}
+2022-02-17 21:10:18,017 :INFO : login1 :User name is filled
+2022-02-17 21:10:23,111 :INFO : login1 :Password is entered
+2022-02-17 21:10:28,215 :INFO : login1 :Login button is clicked
+2022-02-17 21:10:28,215 :INFO : login1 :User is loged in successfully
+2022-02-17 21:10:28,248 :INFO : login1 :User is logged into his account successfully
+2022-02-17 21:13:06,156 :INFO : registration :Username is passed
+2022-02-17 21:13:11,255 :INFO : registration :Email is entered
+2022-02-17 21:13:16,332 :INFO : registration :First name is entered
+2022-02-17 21:13:21,399 :INFO : registration :Last name is entered
+2022-02-17 21:13:26,478 :INFO : registration :Phone number is entered
+2022-02-17 21:13:26,574 :INFO : registration :Batch is selected
+2022-02-17 21:13:31,675 :INFO : registration :Password is entered
+2022-02-17 21:13:36,770 :INFO : registration :Password is confirmed
+2022-02-17 21:13:41,862 :INFO : registration :Signup button is clicked
+2022-02-17 21:13:41,887 :INFO : registration :Title is verified. User is registered in successfully
